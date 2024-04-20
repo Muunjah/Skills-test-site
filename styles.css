@@ -1,0 +1,17 @@
+* {
+    box-sizing: content-box;
+}
+
+nav.navi {
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 70px;
+    color: magenta;
+    text-align: center;
+    margin: auto;
+    min-height: auto;
+    max-height: auto;
+    font-weight: bold;
+}
